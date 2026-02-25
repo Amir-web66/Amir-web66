@@ -14,8 +14,8 @@
 
 ```yaml
 Name: Amir
-Location: Tunisia 🇹🇳
-Field: Telecommunications Engineering
+ICT ENGINEERING STUDENT
+at National School Of Engineering in Tunis
 Focus:
   - Cybersecurity
   - Cloud Infrastructure
