@@ -21,4 +21,7 @@ Focus:
   - Cloud Infrastructure
   - Artificial Intelligence
   - Networks & Systems
-Mindset: "Break it. Understand it. Secure it. Improve it."
+Outside Tech:
+  - Taekwondo 🥋
+  - Painting 
+Approach: Consistency > Hype
