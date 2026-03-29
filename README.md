@@ -26,11 +26,12 @@ Outside Tech:
   - Taekwondo 🥋
   - Painting 
 Approach: Consistency > Hype
+```
 
-
----
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-khammar-934702389/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Amir_Khammar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</p
+
+
