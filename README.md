@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Amir+Khammar;ICT+Engineering+Student;Cybersecurity+%7C+Cloud+%7C+AI+Explorer;Building+Systems+That+Think+Protect+Connect" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AMIR+KHAMMAR;ICT+Engineering+Student;Cybersecurity+%7C+Cloud+%7C+AI+Explorer;Building+Systems+That+Think+Protect+Connect" />
 </h1>
 
 <p align="center">
@@ -26,12 +26,3 @@ Outside Tech:
   - Taekwondo 🥋
   - Painting 
 Approach: Consistency > Hype
-```
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amir-khammar-934702389/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p
-
-
