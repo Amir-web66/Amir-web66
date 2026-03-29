@@ -5,8 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Logs</b><br>
-  <img src="https://komarev.com/ghpvc/?username=Amir-web66&color=blueviolet&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=Amir-web66&label=LOGS&color=blueviolet&style=flat-square">
 </p>
 
 ---
