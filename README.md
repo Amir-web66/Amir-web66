@@ -48,7 +48,7 @@ Motto       : Consistency > Hype
 <br/>
 
 <p align="center">
-  <i>"Pain and suffering are always inevitable for a large intelligence and a deep heart."</i>
+  <i>"but how could you live and have no story to tell."</i>
   <br/>
   <sub>— Fyodor Dostoevsky</sub>
 </p>
