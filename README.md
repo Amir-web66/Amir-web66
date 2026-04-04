@@ -7,7 +7,7 @@
 </p>
 ---
 ## 👨‍💻 About Me
-yaml
+````yaml
 Name        : Amir Khammar
 Role        : ICT Engineering Student
 School      : National School of Engineering, Tunis
@@ -21,8 +21,15 @@ Outside Tech:
   - Reading books
   - Painting 
 Motto       : Consistency > Hype
+` `` `
+## ⚙️ Active Processes
+```yaml
+Currently Reading : Reverse Engineering for Beginners (RE4B) — Dennis Yurichev
+Working On       : Personal site → https://amir-web66.github.io/
+CTF Status       : Active player
+` `` ` (remove space)
 
-reading RE4B when i remember to
+
 ---
 ## 🔗 Connect with Me
 <p align="center">
