@@ -33,7 +33,7 @@ Motto       : Consistency > Hype
 ```yaml
 Currently Reading : Reverse Engineering for Beginners (RE4B) — Dennis Yurichev
 Working On       : Personal site → https://amir-web66.github.io/
-CTF Status       : Active player
+
 ```
 
 ---
