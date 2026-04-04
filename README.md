@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
 Name        : Amir Khammar
@@ -20,15 +20,15 @@ Focus Areas :
   - Artificial Intelligence
   - Networks & Systems
 Outside Tech:
-  - Taekwondo 🥋
-  - Reading books 📚
-  - Painting 🎨
+  - Taekwondo 
+  - Reading books 
+  - Painting 
 Motto       : Consistency > Hype
 ```
 
 ---
 
-## ⚙️ Active Processes
+##  Active Processes
 
 ```yaml
 Currently Reading : Reverse Engineering for Beginners (RE4B) — Dennis Yurichev
@@ -38,7 +38,7 @@ CTF Status       : Active player
 
 ---
 
-## 🛠️ Tech Stack I Can Deal With
+##  Tech Stack I Can Deal With
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -50,8 +50,6 @@ CTF Status       : Active player
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
