@@ -6,8 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=Amir-web66&label=LOGS&color=blueviolet&style=flat-square" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
-````yaml
+
+```yaml
 Name        : Amir Khammar
 Role        : ICT Engineering Student
 School      : National School of Engineering, Tunis
@@ -17,20 +20,23 @@ Focus Areas :
   - Artificial Intelligence
   - Networks & Systems
 Outside Tech:
-  - Taekwondo
-  - Reading books
-  - Painting 
+  - Taekwondo 🥋
+  - Reading books 📚
+  - Painting 🎨
 Motto       : Consistency > Hype
 ```
+
 ---
 
 ## ⚙️ Active Processes
+
 ```yaml
 Currently Reading : Reverse Engineering for Beginners (RE4B) — Dennis Yurichev
 Working On       : Personal site → https://amir-web66.github.io/
 CTF Status       : Active player
 ```
 
+---
 
 ## 🛠️ Tech Stack I Can Deal With
 
@@ -88,4 +94,3 @@ CTF Status       : Active player
   <br/>
   <sub>— Fyodor Dostoevsky</sub>
 </p>
-````
