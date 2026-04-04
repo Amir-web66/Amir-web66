@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amir-web66&label=LOGS&color=blueviolet&style=flat-square" />
 </p>
----
+
 ## 👨‍💻 About Me
 ````yaml
 Name        : Amir Khammar
@@ -21,7 +21,7 @@ Outside Tech:
   - Reading books
   - Painting 
 Motto       : Consistency > Hype
-` `` `
+
 ## ⚙️ Active Processes
 ```yaml
 Currently Reading : Reverse Engineering for Beginners (RE4B) — Dennis Yurichev
