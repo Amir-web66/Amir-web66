@@ -39,59 +39,6 @@ CTF Status       : Active player
 ` `` ` (remove space)
 
 ---
-## 🛠️ Tech Stack I Can Deal With
-
-
-
-  
-  
-  
-  
-  
-  
-
-
-
-
-  
-  
-  
-  
-  
-  
-
-
-
-
-  
-  
-  
-  
-  
-
-
----
-
-## 🔗 Connect with Me
-
-
-  
-    
-  
-  &nbsp;
-  
-    
-  
-  &nbsp;
-  
-    
-  
-  &nbsp;
-  
-    
-  
-
-
 ##  Connect with Me
 
 <p align="center">
