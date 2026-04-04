@@ -49,8 +49,7 @@ CTF Status       : Active player
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<p align="center">>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -71,7 +70,7 @@ CTF Status       : Active player
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/969977325749936229" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;
