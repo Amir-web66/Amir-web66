@@ -23,15 +23,76 @@ Focus Areas :
   - Networks & Systems
 
 Outside Tech:
-  - Taekwondo 🥋
-  - Painting 🎨
+  - Taekwondo
+  - Reading books
+  - Painting 
 
 Motto       : Consistency > Hype
-```
+
+---
+
+##  Active Processes
+```yaml
+Currently Reading : Reverse Engineering for Beginners (RE4B) — Dennis Yurichev
+Working On       : Personal site → https://amir-web66.github.io/
+CTF Status       : Active player
+` `` ` (remove space)
+
+---
+## 🛠️ Tech Stack I Can Deal With
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+  
+
 
 ---
 
 ## 🔗 Connect with Me
+
+
+  
+    
+  
+  &nbsp;
+  
+    
+  
+  &nbsp;
+  
+    
+  
+  &nbsp;
+  
+    
+  
+
+
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-khammar-934702389/" target="_blank">
