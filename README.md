@@ -9,7 +9,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AMIR+KHAMMAR;ICT+Engineering+Student;Cybersecurity+%7C+Cloud+%7C+AI+Explorer;Building+Systems+That+Think+%E2%80%A2+Protect+%E2%80%A2+Connect" />
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amir-web66&label=LOGS&color=blueviolet&style=flat-square" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Amir-web66&label=PROFILE+VIEWS&color=7B42BC&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
 
 ---
