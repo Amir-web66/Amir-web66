@@ -66,11 +66,30 @@ Working On       : Personal site → https://amir-web66.github.io/
 
 <h3 align="center">Security & Networking</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge&logo=gnubash&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Firewalls_%26_IDS-FF0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewalls & IDS"/>
 </p>
 
 ---
+---
+
+##  Featured Projects
+
+### AI-Enhanced IDS Integration For Firewalls (2026)
+**OPNsense · Suricata · Random Forest · Network Security**
+
+Built an isolated cybersecurity lab consisting of **3 virtual machines (VMs)** to integrate and evaluate a machine-learning-based intrusion detection pipeline using OPNsense, Suricata, and Random Forest.
+
+- Analyzed **5,418 network events** using **12 features**.
+- Integrated network security monitoring with ML-based traffic classification.
+- Reported **99.63% accuracy** and **99.78% F1-score** in the evaluation dataset.
+- Focus: virtualized lab design, network traffic analysis, intrusion detection, and ML evaluation.
+
+[View Project](https://amir-web66.github.io/posts/pfa1_project/)
+
+---
+
 
 ## 🔗 Connect with Me
 
