@@ -14,7 +14,7 @@
 <p align="center">
   <img
     src="https://hits.sh/github.com/Amir-web66.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7B42BC"
-    alt="Profile views"
+    alt="LOGS"
   />
 </p>
 
