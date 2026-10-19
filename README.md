@@ -57,16 +57,20 @@ Working On       : Personal site → https://amir-web66.github.io/
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<p align="center">>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,dart,bash&theme=dark" alt="Languages"/>
 </p>
 
+<h3 align="center">Robotics, Systems & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firewalls_%26_IDS-FF0000?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ros,linux,windows,docker,git,github,vscode&theme=dark" alt="Tools"/>
+</p>
+
+<h3 align="center">Security & Networking</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Firewalls_%26_IDS-FF0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewalls & IDS"/>
 </p>
 
 ---
