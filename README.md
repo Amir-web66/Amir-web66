@@ -89,6 +89,10 @@ Built an isolated cybersecurity lab consisting of **3 virtual machines (VMs)** t
 [View Project](https://amir-web66.github.io/posts/pfa1_project/)
 
 ---
+##  My Personal Blog
+still workin on it ...
+[View Repo](https://github.com/Amir-web66/Amir-web66.github.io)
+
 
 
 ## 🔗 Connect with Me
