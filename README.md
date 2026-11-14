@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://amir-web66.github.io/">
-    <img src="assets/logo.png" width="90" alt="LBrinss logo">
+    <img src="assets/LBrinss_logo_B_.png" width="90" alt="LBrinss logo">
   </a>
 </p>
 
